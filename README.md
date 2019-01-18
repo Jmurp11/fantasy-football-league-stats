@@ -11,7 +11,7 @@ In order to run the project, you will need the following installed in your envir
 
 Clone the source locally: 
 ```
-$ git clone https://github.com/Jmurp11/fantasy-baseball-draft-aid.git
+$ git clone https://github.com/Jmurp11/fantasy-football-league-stats.git
 ```
 
 To install the project dependencies: 
