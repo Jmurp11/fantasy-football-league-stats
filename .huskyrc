@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "eslint src && npm test"
+    "pre-push": "eslint src && npm test"
   }
 }
