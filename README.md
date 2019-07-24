@@ -1,5 +1,10 @@
 # fantasy-football-league-stats
-Get stats for fantasy football leagues
+Get stats for past fantasy football drafts for each member of your league.  
+Stats include:
+* Position Drafted % By Round
+* Success Rate % By Round
+* Draft Picks All-Time By Round
+
 
 ### Prerequisites
 In order to run the project, you will need the following installed in your environment:
